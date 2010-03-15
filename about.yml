@@ -1,7 +1,7 @@
-author: Michael Schuerig
-summary: Reflection on validations
-homepage: http://rubyforge.org/projects/valirefl/validation_reflection/trunk
+author: Johannes Emerich
+summary: Necessity of attributes
+homepage: http://github.com/knuton/validation_reflection
 plugin: validation_reflection
 license: MIT
-version: 0.3.1
+version: 0.3.7
 rails_version: >= 1.1.6
